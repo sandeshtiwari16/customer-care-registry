@@ -2,9 +2,7 @@
 
 _Deployed using VMware Tanzu Application Service_
 
-[Demo Video](https://youtu.be/Xqn3OB5a9M4)
-
-[App Demo](https://sandeshtiwariapp.apps.pcfdev.in/)
+[DEMO VIDEO](https://youtu.be/Xqn3OB5a9M4)
 
 **Category:** _Python Flask_
 
@@ -13,7 +11,7 @@ _Deployed using VMware Tanzu Application Service_
 
 ## Project Description:
 
-### Introduction :
+### Introduction:
 
 - This Application has been developed to help the customer in processing their complaints. 
 - The customers can raise the ticket with a detailed description of the issue. 
@@ -21,6 +19,9 @@ _Deployed using VMware Tanzu Application Service_
 - Whenever the agent is assigned to the customer they will be notified with an email alert. 
 - Customers can view the status of the ticket till the service is provided.
 
+### Block Diagram:
+
+![block](https://github.com/sandeshtiwari16/customer-care-registry/blob/main/snapshots/block%20diagram.png)
 
 ### Admin: 
 
@@ -35,3 +36,10 @@ _Deployed using VMware Tanzu Application Service_
 - Each user will be assigned an agent. 
 - They can view the status of their complaint.
 
+## Snapshots:
+1. Home page ![Home page](https://github.com/sandeshtiwari16/customer-care-registry/blob/main/snapshots/home.JPG)
+2. Login page ![Login page](https://github.com/sandeshtiwari16/customer-care-registry/blob/main/snapshots/login.JPG)
+3. Admin panel ![Admin panel](https://github.com/sandeshtiwari16/customer-care-registry/blob/main/snapshots/admin-panel.JPG)
+4. User dashboard ![User dashboard](https://github.com/sandeshtiwari16/customer-care-registry/blob/main/snapshots/user-dashboard.JPG)
+5. Agent dashboard ![Agent dashboard](https://github.com/sandeshtiwari16/customer-care-registry/blob/main/snapshots/agent-dashboard.JPG)
+6. Ticket view ![Ticket view](https://github.com/sandeshtiwari16/customer-care-registry/blob/main/snapshots/ticket-view.JPG)
